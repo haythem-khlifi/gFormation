@@ -18,6 +18,11 @@
       <artifactId>hibernate-jpa-2.1-api</artifactId>
       <version>1.0.0.Final</version>
     </dependency>
+    <dependency>
+      <groupId>com.esprit.outils</groupId>
+      <artifactId>gestion-enseignants</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 </project>
 
