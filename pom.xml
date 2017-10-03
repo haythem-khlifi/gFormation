@@ -6,7 +6,14 @@
     <artifactId>gformation</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
+  <repositories>
+    <repository>
+      <id>monRepo</id>
+      <name>notre repo 5gl3</name>
+      <url>http://127.0.0.1:8081/repository/esprit_gl3/</url>
+    </repository>
 
+  </repositories>
   <groupId>com.esprit.outils</groupId>
   <artifactId>gestion-formations</artifactId>
   <version>0.0.1-SNAPSHOT</version>
